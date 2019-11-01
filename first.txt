@@ -1,4 +1,9 @@
 hello
+<<<<<<< HEAD
 updated from github
 world
-file edited for synn 1
+
+
+
+
+updated for syn
